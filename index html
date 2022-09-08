@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Table Sederhana</title>
+   
+</head>
+<body>
+    <center>
+    
+   
+    <h4>Daftar Nama Pegawai Toko Pelangi</h4>
+         <table border="class">
+        
+         <thead class="tabel_judul">
+             <th>No</th>
+             <th>Nama Lengkap</th>
+             <th>Alamat</th>
+             <th>Aksi</th>
+         </thead>
+
+
+         <tr>
+             <td>1</td>
+             <td>Bunga </td>
+             <td>Syech Ahmad Panji desa kalikoa </td>
+             <td>Edit</td>
+             <td>Hapus</td>
+         </tr>
+
+         <tr>
+            <td>2</td>
+            <td>Fajar Saudiq</td>
+            <td>Pegambiran Samping Grage City Mall</td>
+            <td>Edit</td>
+            <td>Hapus</td>
+         </tr>
+
+         <tr>
+            <td>3</td>
+            <td>Ruslani</td>
+            <td>Derajat Samping Pasar Jagsatru</td>
+            <td>Edit</td>
+             <td>Hapus</td>
+         </tr>
+
+         <tr>
+            <td>4</td>
+            <td>Rizal</td>
+            <td>Perjuangan </td>
+            <td>Edit</td>
+             <td>Hapus</td>
+         </tr> 
+
+         
+        <tr>
+            <td>5</td>
+            <td>Rizki</td>
+             <td>Majasem</td>
+             <td>Edit</td>
+             <td>Hapus</td>
+        </tr>
+
+          <tr>
+            <td>6</td>
+            <td>Nissa</td>
+             <td>Bima</td>
+             <td>Edit</td>
+             <td>Hapus</td>
+        </tr>
+
+
+
+
+
+
+
+        </table>
+    </center>
+</body>
+</html>
